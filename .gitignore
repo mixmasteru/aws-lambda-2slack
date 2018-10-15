@@ -1,0 +1,7 @@
+.chalice/deployments/
+.chalice/venv/
+.chalice/deployed/
+vendor
+*.iml
+.idea
+__pycache__
